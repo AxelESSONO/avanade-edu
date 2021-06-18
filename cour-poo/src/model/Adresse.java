@@ -33,6 +33,9 @@ public class Adresse {
 	public void setRue(String rue) {
 		this.rue = rue;
 	}
+	
+	public void doSomeThing() {
+	}
 
 	public String getCodePostal() {
 		return codePostal;
